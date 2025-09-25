@@ -1,0 +1,9 @@
+leftnav:
+- identifier: a42b9bed-499e-353e-1d55-464656d8758c
+  name: How to Speak
+  pageRef: /pages/how-to-speak
+  weight: 10
+- identifier: 2d715977-a60b-a1ed-159f-652c0968c550
+  name: Related Resources
+  pageRef: /pages/relatedresources
+  weight: 20
