@@ -3,6 +3,8 @@ content_type: page
 description: This page includes the full How to Speak video recorded in January 2018,
   along with related content and commentary
 draft: false
+hide_download: true
+hide_download_original: null
 title: How to Speak
 uid: a42b9bed-499e-353e-1d55-464656d8758c
 ---
