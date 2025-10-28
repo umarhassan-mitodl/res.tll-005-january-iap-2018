@@ -26,8 +26,8 @@
     "website": "res-tll-005-how-to-speak-january-iap-2018"
   },
   "course_title": "How to Speak",
-  "hide_download": true,
-  "course_description": "Patrick Winston's _How to Speak_ talk has been an MIT tradition for over 40 years. Offered every January during the\u00a0Independent Activities Period (IAP), usually to overflow crowds, the talk is intended to improve your speaking ability in critical situations by teaching you a few heuristic rules. Professor Winston's collection of rules is presented along with examples of their application in job-interview talks, thesis defenses, oral examinations, and lectures.\n\nAbout Professor Winston\n-----------------------\n\nA professor at MIT for almost 50 years, Patrick Winston was director of MIT\u2019s Artificial Intelligence Laboratory from 1972 to 1997 before it merged with the Laboratory for Computer Science to become [MIT\u2019s Computer Science and Artificial Intelligence Laboratory (CSAIL)](https://www.csail.mit.edu/).\u00a0He led CSAIL\u2019s [Genesis Research Group](https://groups.csail.mit.edu/genesis/), which focused on developing a computational account of human intelligence and how human intelligence differs from that of other species, with special attention to modeling human story comprehension. Professor Winston [passed away on July 19, 2019](http://news.mit.edu/2019/patrick-winston-professor-obituary-0719).\n",
+  "hide_download": false,
+  "course_description": "Patrick Winston's _How to Speak_ talk has been an MIT tradition for over 40 years. Offered every January during the\u00a0Independent Activities Period (IAP), usually to overflow crowds, the talk is intended to improve your speaking ability in critical situations by teaching you a few heuristic rules. Professor Winston's collection of rules is presented along with examples of their application in job-interview talks, thesis defenses, oral examinations, and lectures.\n\nAbout Professor Winston\n-----------------------\n\nA professor at MIT for almost 50 years, Patrick Winston was director of MIT\u2019s Artificial Intelligence Laboratory from 1972 to 1997 before it merged with the Laboratory for Computer Science to become {{% resource_link \"7dab2804-3f71-41f7-883c-1307bb90e6b4\" \"MIT\u2019s Computer Science and Artificial Intelligence Laboratory (CSAIL)\" %}}.\u00a0He led CSAIL\u2019s {{% resource_link \"c1fc3ef3-007d-4def-b9f4-624e4ac3c53b\" \"Genesis Research Group\" %}}, which focused on developing a computational account of human intelligence and how human intelligence differs from that of other species, with special attention to modeling human story comprehension. Professor Winston {{% resource_link \"4f67e902-e02b-4047-be8f-f457943d37da\" \"passed away on July 19, 2019\" %}}.\n",
   "department_numbers": [],
   "extra_course_numbers": "",
   "primary_course_number": "RES.TLL-005",
@@ -35,7 +35,6 @@
     "content": "b4c92502-9563-31b8-6eeb-a15a1f4a51e4",
     "website": "res-tll-005-how-to-speak-january-iap-2018"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Videos"
   ],
