@@ -4,8 +4,6 @@ description: ''
 file: /courses/res-tll-005-how-to-speak-january-iap-2018/9c908a2facaa35d7aafcdf1195166a46_Unzc731iCUY.srt
 file_size: 87586
 file_type: application/x-subrip
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
