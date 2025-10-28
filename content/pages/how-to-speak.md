@@ -3,8 +3,6 @@ content_type: page
 description: This page includes the full How to Speak video recorded in January 2018,
   along with related content and commentary
 draft: false
-hide_download: true
-hide_download_original: null
 title: How to Speak
 uid: a42b9bed-499e-353e-1d55-464656d8758c
 ---
@@ -16,7 +14,7 @@ uid: a42b9bed-499e-353e-1d55-464656d8758c
 
 ## Background
 
-Around 40 years ago, Professor Patrick Henry Winston ’65, SM ’67, PhD ’70 gave his first talk on _How to Speak_. As he wrote in this [Slice of MIT article from 2010](https://alum.mit.edu/slice/how-speak):
+Around 40 years ago, Professor Patrick Henry Winston ’65, SM ’67, PhD ’70 gave his first talk on _How to Speak_. As he wrote in this {{% resource_link "dd37cad5-31f7-4c3e-891a-2451cdd2be7e" "Slice of MIT article from 2010" %}}:
 
 Robert Sjoberg, SM ’81, made me do it.
 
